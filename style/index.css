@@ -9,7 +9,7 @@ body {
     max-width: 100%;
     height: 720px;
     background-color: #19A1AE;
-    background-image: url("/img/bg-pattern-top.svg"), url("/img/bg-pattern-bottom.svg");
+    background-image: url("./img/bg-pattern-top.svg"), url("./img/bg-pattern-bottom.svg");
     background-repeat: no-repeat;
     background-size: auto;
     background-position: -350px 190%, 620px -140%;
