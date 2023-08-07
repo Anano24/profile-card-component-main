@@ -16,7 +16,7 @@ you improve your coding skills by building realistic projects.
 
 ### Links
 
-- Live Site URL: [Github live page](https://anano24.github.io/HTML-CSS-projects/)
+- Live Site URL: [Github live page](https://anano24.github.io/profile-card-component-main/)
 
 ## My process
 
